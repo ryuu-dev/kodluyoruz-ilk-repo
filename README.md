@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ## Project Overview
 
-![Proje Resmi](figures/proje.png)
+![Proje Resmi](https://hizliresim.com/1ev9mv6)
 
 ## Installation
 
